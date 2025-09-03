@@ -1,6 +1,4 @@
 # Web-Development
-Learning Full Stack Web Development
-<br>
-Author - Vivek Krishna Sandupatla
-<br>
-Status - Ongoing
+<p>Learning Full Stack Web Development</p>
+<p>Author - Vivek Krishna Sandupatla</p>
+<p>Status - Ongoing</p>
